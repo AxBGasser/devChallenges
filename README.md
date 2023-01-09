@@ -5,6 +5,6 @@
 
 | Responsive Web Design (RWD) | Front-End Developer (FED)  | Full-Stack Developer (FSD) |
 | :------------: | :---------------: | :-----:|
-| 404 Not Found <a href="http://devchallenges.io" target="_blank">Demo</a> |              |            |            |
+| 404 Not Found <a href="https://bgasser10.github.io/devChallenges/" target="_blank">Demo</a> |              |            |            |
 
 ------------
