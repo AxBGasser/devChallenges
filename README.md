@@ -3,7 +3,7 @@
 
 ### Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>
 
-[Demo Here](http://q.com "Demo Here")
+[Demo Here](https://bgasser10.github.io/devChallenges "Demo Here")
 
 ##### Built With
 
